@@ -1,8 +1,8 @@
 # PICCHI-HAKIM
 This is paid
 
-git clone 
-https://github.com/Hakimraj/PICCHI-HAKIM
+
+git clone https://github.com/Hakimraj/PICCHI-HAKIM
 
 cd PICCHI-HAKIM
 
